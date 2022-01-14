@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dssa95
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning EPAM and БГУИР г. Минска
+- 🌱 I’m currently learning Java in online school -> Skillbox and study in БГУИР г. Минска
 - 💞️ I’m looking to collaborate on all!
 - 📫 How to reach me: @vitalikwvv (Instagram)
 <!---
